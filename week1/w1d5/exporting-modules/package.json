@@ -1,0 +1,11 @@
+{
+  "name": "exporting-modules",
+  "version": "1.0.0",
+  "description": "expoting modules assignment",
+  "main": "export-module.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
